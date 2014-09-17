@@ -1,10 +1,11 @@
-div{
+div {
     border-style: solid;
     border-width: 5px;
+    padding: 30px;
 }
-.container{
+.container {
     border-color: blue;
 }
-.row{
+.row {
     border-color: red;
 }
